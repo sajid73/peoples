@@ -11,4 +11,4 @@ It has also search feature. You can search through the list and can see full det
 
 ## Live site
 
-[Visit site for demo live](https://sajid73.github.io/peoples)
+[Visit site for demo live](https://peoples1.netlify.app)
