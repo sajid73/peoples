@@ -1,0 +1,11 @@
+.singleDetails {
+  text-align: left;
+}
+.vehicles {
+  margin: 20px 0;
+  color: grey;
+  font-weight: normal;
+}
+.vehicle {
+  list-style-type: none;
+}

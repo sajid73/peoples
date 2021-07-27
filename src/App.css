@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  border: 2px solid gainsboro;
+  padding: 20px;
+  min-height: 100vh;
+}
+.error {
+  color: red;
+}
+.loading {
+  color: cadetblue;
+}
+.pagination-button {
+  padding: 5px 10px;
+  margin: 4px;
+  background-color: lightblue;
+  border: 1px solid gainsboro;
+  border-radius: 8px;
+  cursor: pointer;
+}
