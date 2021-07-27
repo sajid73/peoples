@@ -20,4 +20,4 @@ It has also search feature. You can search through the list and can see full det
 
 ## Demo video
 
-![Demo video](media/2021-07-27 10-17-51.gif)
+<img src="/media/2021-07-27 10-17-51.gif" width="100" height="80" />
