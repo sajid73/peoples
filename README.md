@@ -12,3 +12,12 @@ It has also search feature. You can search through the list and can see full det
 ## Live site
 
 [Visit site for demo live](https://peoples1.netlify.app)
+
+## Screenshots
+![Screenshot 1](/media/people.PNG?raw=true "1st screenshot")
+
+![Screenshot 2](/media/people1.PNG?raw=true "2nd screenshot")
+
+## Demo video
+
+![Demo video](media/2021-07-27 10-17-51.gif)
